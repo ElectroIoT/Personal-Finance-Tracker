@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #007bff;
+    padding: 20px;
+    color: white;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+form {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form .form-label {
+    font-weight: bold;
+}
+
+#expense-chart {
+    margin-top: 40px;
+}
+
+#expense-list {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+}
+
+#expense-list div {
+    padding: 5px;
+    margin: 5px 0;
+    background-color: #e9ecef;
+    border-radius: 4px;
+}
